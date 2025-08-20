@@ -59,7 +59,7 @@ document.body.style.backgroundColor = color;
 
 
 ## 🚀 Live Demo  
-🔗 [comming soon] 
+🔗 [View Live](https://siddik-rahman.github.io/color-switcher/)
 
 ## 🧑‍💻 Author
  Siddikur Rahman  
